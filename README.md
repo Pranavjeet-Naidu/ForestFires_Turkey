@@ -5,8 +5,8 @@
 A glossary of the terms introduced to in class :
 
 
- EDA - Explonatory Data analysis 
- MAE - Mean Absolute Error
+ EDA - Explonatory Data analysis . 
+ MAE - Mean Absolute Error .
  MAPE - Mean Absolute percentage error . 
 
  
@@ -16,7 +16,7 @@ Note : Given how MAE and MAPE work , the lower the values of them , the better f
  A brief on how time series forecasting works  : 
  Problem statement > SGQ > Problem Representation > EDA > Model > Presentation 
 
-  IMT - Inventory Management Team 
-  LSTM - Long Short Term Memory Networks 
-  DF - Data Frame
-  SGQ - no idea what it's abbreviated to , preliminary google search results pointed towards "Stop-and-Go Queuing"
+  IMT - Inventory Management Team .
+  LSTM - Long Short Term Memory Networks . 
+  DF - Data Frame .
+  SGQ - no idea what it's abbreviated to , preliminary google search results pointed towards "Stop-and-Go Queuing" .
