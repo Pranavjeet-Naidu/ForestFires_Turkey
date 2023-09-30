@@ -11,7 +11,7 @@ We use the data provided (mostly timeseries) to build predictive models that for
 
 # Actions:
 
-Our ultimate goalin a business context is to generate actionable insights. Such as recommending specific actions to achieve desired outcomes. For instance, a prescriptive model might suggest adjusting pricing strategies, launching targeted marketing campaigns, or optimizing supply chain logistics.
+Our ultimate goal in a business context is to generate actionable insights. Such as recommending specific actions to achieve desired outcomes. For instance, a prescriptive model might suggest adjusting pricing strategies, launching targeted marketing campaigns, or optimizing supply chain logistics.
 
 # The presentations
   We make 2 kinds of presentations: 
