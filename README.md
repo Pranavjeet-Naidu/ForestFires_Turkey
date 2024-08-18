@@ -45,3 +45,6 @@ This project involves analyzing and forecasting forest fire incidents using time
 - Prophet
 
 
+### Replication
+- Incase you wamt to run the notebook , remove the mount code , download the .csv file and add the path code
+
